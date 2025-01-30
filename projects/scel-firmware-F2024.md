@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/scel-firmware-block-diagram.png
 title: "Smart Campus Energy Lab Team Firmware 2024"
 date: 2024-09-01
 published: true
