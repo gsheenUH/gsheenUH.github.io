@@ -4,13 +4,13 @@
     "label": "Student",
     "picture": "https://github.com/gsheenUH.png",
     "email": "gsheen@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://gsheenUH.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "gsheen", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "gordon-sheen", "url": "www.linkedin.com/in/gordon-sheen-66514b1b2e" }
     ]
   },
   "interests": [
