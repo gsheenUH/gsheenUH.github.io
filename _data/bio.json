@@ -35,9 +35,48 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2023-09-07",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "BBQ Chicken Hawaii",
+      "position": "Fryer",
+      "website": "",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "summary": "Kitchen fryer for BBQ Chicken Hawaii",
+      "highlights": [
+        "Excel under high-pressure situations while consistently working long hours",
+      ]
+    },
+  ],
+  "Projects and Extracurriculars": [
+    {
+      "organization": "Smart Campus Energy Lab",
+      "website": "https://scel-hawaii.org/",
+      "position": "Team Firmware member",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "summary": "Firmware team member",
+      "highlights": [
+        "Maintains data pipeline for project",
+        "Assists hardware teams with firmware/software related issues",
+        "Provide quality of life improvement to setup protocols"
+      ]
+    },
+    {
+      "organization": "Moanalua High School Robotics Mentor",
+      "website": "",
+      "position": "Mentor",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Mentored as an alumnus, fostering teamwork and problem-solving skills among students",
       ]
     }
   ],
