@@ -13,9 +13,7 @@ summary: "My team assisted the hardware teams and implemented quality of life ch
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/scel-firmware-block-diagram.png" class="img-thumbnail" >
 </div>
 
 The Smart Campus Energy Lab (SCEL) is a student-led VIP project (Vertically Integrated Project) that aims to design and create weatherboxes to gather data such as solar irradiance. The end goal of this project is to assist in UH Manoa's net-zero energy goal by 2035 by collecting and analyzing weather data to better predict the necessary power usage of buildings across campus.
