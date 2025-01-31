@@ -10,8 +10,6 @@ labels:
   - Learning
 ---
 
-# <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-
 ## Experiences with TypeScript
 
 Typescript/Javascript thus far has been more tedious than I thought. Coming from being used to C and Java programming, I find that there is a learning curve in keeping track of the types of the types of so many variables in JavaScript. Often, especially when it comes to dealing with arrays and objects, I lose track of whether or not I am calling the right item. I am thankful that Typescript allows me to set the type. Doing so helps bring clarity to my state of mind. From a software engineering perspective, I find that this language isn’t necessary, but helps in many developers’ workflow. I did not really find the ES6 features that useful. Or rather I did not see how certain features could be applied to make coding more efficient and easy to read. Perhaps, that is because I am still a beginner to Typescript/JavaScript.
