@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cropped-FRC-FinishedRobotPrototype2020.jpg
+image: img/cropped-FRC-FinishedRobotPrototype.png
 title: "Moanalua High School Robotics"
 date: 2022-01-04
 published: true
