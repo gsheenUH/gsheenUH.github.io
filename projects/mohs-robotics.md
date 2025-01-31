@@ -6,9 +6,8 @@ title: "Moanalua High School Robotics"
 date: 2022-01-04
 published: true
 labels:
-  - Firmware
-  - Python
-  - PostgreSQL
+  - Engineering
+  - Robotics
 summary: "My team assisted the hardware teams and implemented quality of life changes to the project data pipeline."
 ---
 
