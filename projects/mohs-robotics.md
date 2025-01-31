@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/"cropped-FRC - Finished Robot Prototype.JPG"
+image: img/cropped-FRC-FinishedRobotPrototype2020.jpg
 title: "Moanalua High School Robotics"
 date: 2022-01-04
 published: true
@@ -13,7 +13,7 @@ summary: "My team assisted the hardware teams and implemented quality of life ch
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/scel-firmware-block-diagram.png" class="img-thumbnail" >
+  <img width="200px" src="../img/cropped-FRC-FinishedRobotPrototype2020.jpg" class="img-thumbnail" >
 </div>
 
 I was a part of Moanalua High School's robotics program for 4 years. Every spring, we would compete in the FIRST Robotics Competition (FRC) where we would put together a robot that would compete in the year's game. During my final year of high school, I was the design lead and president of the robotics club. Although my team did not win any awards or place notably in the competition, we were successful revitalizing the robotics club after a leadership transitory period during the pandemic. We did this by increasing membership and participatory rates.
