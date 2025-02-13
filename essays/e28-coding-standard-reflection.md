@@ -10,7 +10,7 @@ labels:
   - Typescript
 ---
 
-*Essay on ESLint and Coding Standards*
+## Introduction
 
 Coding standards often seem trivial—focusing on details like indentation style or bracket placement—but they can have a significant impact on productivity and collaboration. By establishing a consistent set of rules, coding standards help keep code uniform, reduce confusion, and simplify reviews. After my first week using ESLint with Visual Studio Code, I’ve come to appreciate its strengths as well as its drawbacks
 
