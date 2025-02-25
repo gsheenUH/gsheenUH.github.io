@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/logitech-homepage-recreation.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/logitech-homepage-recreation.png">
 
 User interface (UI) frameworks have become staples in contemporary front-end web development. They often rival the complexity of a new programming language, demanding significant effort to master. Many might wonder why developers bother with frameworks like Bootstrap 5, Semantic UI, or others, rather than simply coding their pages from scratch with raw HTML and CSS. The reasons lie in the benefits these frameworks offer in terms of streamlined development, consistency, responsiveness, and maintainability.
 
