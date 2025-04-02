@@ -43,10 +43,6 @@ Given a 5 week duration, a working mockup of the application on 2 years (4 semes
 - Course schedule manual builder page (view available sections offered, section times, and instructor for each section)
 - Course schedule generator page
 
-<img width="400px" src="../img/course_schedule_builder_mock_layout.jpg">
-
-*Rough UI mockup of course schedule builder*
-
 ## Use Case Ideas
 - A user can generate a list of schedules based on the courses they would like to take and select the schedule that best suits them
 - A freshmen student can make a mock plan of all the courses they will take throughout their time in college and avoid major time conflicts.
@@ -55,3 +51,7 @@ Given a 5 week duration, a working mockup of the application on 2 years (4 semes
 ## Beyond the Basics
 - Implement a time sheet visualization based on courses selected
 - Apply logic to create generate a list of possible schedules from selected courses
+
+<img width="2000px" src="../img/course_schedule_builder_mock_layout.jpg">
+
+*Rough UI mockup of course schedule builder*
