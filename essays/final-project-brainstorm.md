@@ -52,6 +52,6 @@ Given a 5 week duration, a working mockup of the application on 2 years (4 semes
 - Implement a time sheet visualization based on courses selected
 - Apply logic to create generate a list of possible schedules from selected courses
 
-<img width="2000px" src="../img/course_schedule_builder_mock_layout.jpg">
+<img width="1400px" src="../img/course_schedule_builder_mock_layout.jpg">
 
 *Rough UI mockup of course schedule builder*
