@@ -43,7 +43,7 @@ Given a 5 week duration, a working mockup of the application on 2 years (4 semes
 - Course schedule manual builder page (view available sections offered, section times, and instructor for each section)
 - Course schedule generator page
 
-<img width="200px" class="rounded float-start pe-4" src="../img/course_schedule_builder_mock_layout.jpg">
+<img width="400px" src="../img/course_schedule_builder_mock_layout.jpg">
 
 *Rough UI mockup of course schedule builder*
 
