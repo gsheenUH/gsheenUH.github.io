@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/blueprints.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/project-tracking.jpg">
 
 ## When time predictions meet reality
 
