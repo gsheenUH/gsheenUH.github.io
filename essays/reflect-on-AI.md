@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/project-tracking.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/AI.jpg">
 
 ## I. Introduction
 
